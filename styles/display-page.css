@@ -1,0 +1,54 @@
+main {
+  padding: 30px;
+  font-size: 0px;
+  width: 800px;
+
+
+}
+
+.box {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+  font-size: 0;
+  border: 1px solid black;
+
+}
+
+.low {
+  height: 300px;
+  width: 33.33%;
+  display: inline-block;
+  font-size: 0;
+  border: 1px solid black;
+
+
+}
+
+.upperLeft {
+  background-color: green;
+
+}
+
+.upperRight {
+  background-color: blue;
+
+}
+
+.lowerLeft {
+  background-color: grey;
+
+}
+
+.lowerCenter {
+  background-color: black;
+
+}
+
+.lowerRight {
+  background-color: orange;
+
+}
